@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Quantile Consulting Services]]></title>
   <link href="http://quantileconsulting.com/atom.xml" rel="self"/>
   <link href="http://quantileconsulting.com/"/>
-  <updated>2014-09-04T23:02:03-04:00</updated>
+  <updated>2014-09-04T23:12:27-04:00</updated>
   <id>http://quantileconsulting.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Quantile Consulting Services, LLC]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
